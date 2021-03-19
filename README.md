@@ -9,4 +9,4 @@ I decided to invest the unhealthy amount of time I spend on Twitter into somethi
 # 🥶
 If you want to reach out, feel free to reach out via email at fc2608@columbia.edu or through twitter [here](www.twitter.com/frankycmpz).
 
-If you're an employer looking at this page, consider hiring me. I'm tired of being asked by my friends what my *next bot idea* is.
+If you're an employer looking at this page, consider hiring me. I'm tired of being asked by my friends what my *next* bot idea is.
