@@ -3,7 +3,7 @@
 I'm an undergrad at Columbia University studying politics and programming. 
 
 Most of the projects on here will involve my Twitter bots. 
-I decided to invest the unhealthy amount of time I spend on Twitter into something that would take advnantage my programming skills.
+I decided to invest the unhealthy amount of time I spend on Twitter into something that would take advantage of my programming skills.
 
 
 # 🥶
