@@ -11,12 +11,14 @@ If you want to reach out, feel free to reach out via email at fc2608@columbia.ed
 
 If you're an employer looking at this page, consider hiring me. I'm tired of being asked by my friends what my *next* bot idea is.
 
-# Quick Links
+# Quick Bot Links
 
-[Shrek Bot](https://www.twitter.com/shrekframe)
+[@shrekframe](https://www.twitter.com/shrekframe) - Every shrek frame in order. 
 
-[Garfield Bot](https://www.twitter.com/garfieldpicture)
+[@garfieldpicture](https://www.twitter.com/garfieldpicture) - A random garfield strip every few hours.
 
-[Pokémon Card Bot](https://www.twitter.com/pokecardbot)
+[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card bot every few hours.
 
-[IKEA Product Bot](https://www.twitter.com/ikeabot2)
+[IKEA Product Bot](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours.
+
+Artist's Vocab - Still in progress. [Github link here.](https://github.com/frankycmpz/lyric-freq) Generated image has two different features, block size and color. The block size represents how often a word is used by an artist, while the color is still random. I want the color to represent how common/rare of a word that is in general, so I need to build a database. Hopefully will find time soon.
