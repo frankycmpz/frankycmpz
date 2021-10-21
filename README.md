@@ -21,4 +21,4 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 [IKEA Product Bot](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours.
 
-Artist's Vocab - Still in progress. [Github link here.](https://github.com/frankycmpz/lyric-freq) Generated image has two different features, block size and color. The block size represents how often a word is used by an artist, while the color is still random. I want the color to represent how common/rare of a word that is in general, so I need to build a database. Hopefully will find time soon.
+Artist's Vocab - Still in progress. [GitHub link here.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
