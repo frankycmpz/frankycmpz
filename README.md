@@ -13,10 +13,10 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 # Quick Links
 
-[Shrek Bot](www.twitter.com/shrekframe)
+[Shrek Bot](https://www.twitter.com/shrekframe)
 
-[Garfield Bot](www.twitter.com/garfieldpicture)
+[Garfield Bot](https://www.twitter.com/garfieldpicture)
 
-[Pokémon Card Bot](www.twitter.com/pokecardbot)
+[Pokémon Card Bot](https://www.twitter.com/pokecardbot)
 
-[Ikea Product Bot](www.twitter.com/ikeabot2)
+[IKEA Product Bot](https://www.twitter.com/ikeabot2)
