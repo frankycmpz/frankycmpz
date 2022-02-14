@@ -25,4 +25,6 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 [Photon](https://github.com/frankycmpz/Photon). A group-developed image manipulation programming language.
 
+Squid Game AI - Project part of Intro to AI course. In a private repo.
+
 Artist's Vocab - Still in progress. [Repo link.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
