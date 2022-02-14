@@ -13,17 +13,15 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 # Quick Bot Links
 
-[@shrekframe](https://www.twitter.com/shrekframe) - Every shrek frame in order. 
+[@shrekframe](https://www.twitter.com/shrekframe) - Every shrek frame in order. [Repo link.](https://github.com/frankycmpz/shrek-bot)
 
-[@garfieldpicture](https://www.twitter.com/garfieldpicture) - A random garfield strip every few hours.
+[@garfieldpicture](https://www.twitter.com/garfieldpicture) - A random garfield strip every few hours. [Repo link.](https://github.com/frankycmpz/garfield-bot)
 
-[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card bot every few hours.
+[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card every few hours.[Repo link.](https://github.com/frankycmpz/pokemoncardbot)
 
 [@ikeabot2](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours. 
 
-[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card every few hours. 
-
-Artist's Vocab - Still in progress. [GitHub link here.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
+Artist's Vocab - Still in progress. [Repo link.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
 
 # Other Projects
 
