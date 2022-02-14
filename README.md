@@ -1,6 +1,6 @@
 # Hi, my name is Franky Campuzano. 
 
-I'm an undergrad at Columbia University studying politics and programming. 
+I'm a senior at Columbia University studying programming and politics. 
 
 Most of the projects on here will involve my Twitter bots. 
 I decided to invest the unhealthy amount of time I spend on Twitter into something that would take advantage of my programming skills.
