@@ -21,8 +21,8 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 [@ikeabot2](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours. 
 
-Artist's Vocab - Still in progress. [Repo link.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
-
 # Other Projects
 
 [Photon](https://github.com/frankycmpz/Photon). A group-developed image manipulation programming language.
+
+Artist's Vocab - Still in progress. [Repo link.](https://github.com/frankycmpz/lyric-freq) Hopefully will find time to finish it soon.
