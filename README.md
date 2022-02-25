@@ -19,7 +19,7 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 [@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card every few hours. [Repo link.](https://github.com/frankycmpz/pokemoncardbot)
 
-[@ikeabot2](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours. 
+[@ikeabot2](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours. [Repo link.](https://github.com/frankycmpz/ikea_bot)
 
 # Other Projects
 
