@@ -17,7 +17,7 @@ If you're an employer looking at this page, consider hiring me. I'm tired of bei
 
 [@garfieldpicture](https://www.twitter.com/garfieldpicture) - A random garfield strip every few hours. [Repo link.](https://github.com/frankycmpz/garfield-bot)
 
-[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card every few hours.[Repo link.](https://github.com/frankycmpz/pokemoncardbot)
+[@pokecardbot](https://www.twitter.com/pokecardbot) - A random Pokémon card every few hours. [Repo link.](https://github.com/frankycmpz/pokemoncardbot)
 
 [@ikeabot2](https://www.twitter.com/ikeabot2) - A random IKEA product every few hours. 
 
